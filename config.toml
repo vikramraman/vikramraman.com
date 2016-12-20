@@ -1,0 +1,14 @@
+languageCode = "en-us"
+baseurl = "http://vikramraman.com/"
+title = "Vikram Raman"
+theme = "detox"
+
+[params]
+author = "Vikram Raman"
+description = "A teacher who is also not learning can't teach others - Tagore"
+google_analytics = "UA-81689311-2"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
