@@ -1,14 +1,34 @@
 languageCode = "en-us"
-baseurl = "http://vikramraman.com/"
+baseurl = "http://vikramraman.com"
 title = "Vikram Raman"
-theme = "detox"
-
-[params]
-author = "Vikram Raman"
-description = "A teacher who is also not learning can't teach others - Tagore"
-google_analytics = "UA-81689311-2"
+theme = "hemingway"
+copyright = "&copy; Vikram Raman 2016"
+googleAnalytics = "UA-81689311-2"
 
 [taxonomies]
 tag = "tags"
 category = "categories"
 series = "series"
+
+[params]
+author = "Vikram Raman"
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "http://www.vikramraman.com/about/"
+fa_icon = "fa-user"
+
+[[params.social]]
+url = "https://github.com/vikramraman"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/ramanvikram"
+fa_icon = "fa-linkedin"
+
+[[params.social]]
+url = "mailto: vikram.raman@gmail.com"
+fa_icon = "fa-envelope"
