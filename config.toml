@@ -14,7 +14,7 @@ series = "series"
 author = "Vikram Raman"
 
 [params.highlight]
-style = "github"
+style = "ocean"
 languages = ["go", "dockerfile"]
 
 [[params.social]]

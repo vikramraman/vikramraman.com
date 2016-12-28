@@ -2,7 +2,6 @@
 date = "2016-12-07T22:17:02-08:00"
 title = "About"
 tags = ["Personal"]
-series = ["Personal"]
 categories = ["Personal"]
 
 +++
