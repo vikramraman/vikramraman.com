@@ -2,7 +2,7 @@ languageCode = "en-us"
 baseurl = "http://vikramraman.com"
 title = "Vikram Raman"
 theme = "hemingway"
-copyright = "&copy; Vikram Raman 2016"
+copyright = "&copy; Vikram Raman 2018"
 googleAnalytics = "UA-81689311-2"
 
 [taxonomies]
